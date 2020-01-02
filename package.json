@@ -1,0 +1,26 @@
+{
+    "name": "fontselect-jquery-plugin",
+    "version": "0.8",
+    "description": "A jQuery font selector for System and Google Web Fonts",
+    "main": "jquery.fontselect.js",
+    "directories": {
+        "example": "examples"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/digason/fontselect-jquery-plugin.git"
+    },
+    "keywords": [
+        "jquery-plugin",
+        "ecosystem:jquery"
+    ],
+    "author": "digason",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/digason/fontselect-jquery-plugin/issues"
+    },
+    "homepage": "https://github.com/digason/fontselect-jquery-plugin#readme"
+}
